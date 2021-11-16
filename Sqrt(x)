@@ -1,0 +1,17 @@
+int mySqrt(int x){
+    int i;
+    i=sqrt(x);
+        return i;
+}
+
+
+
+
+class Solution {
+public:
+    int mySqrt(int x) {
+        int i;
+        i=sqrt(x);
+        return i;
+    }
+};
